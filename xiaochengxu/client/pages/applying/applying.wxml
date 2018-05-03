@@ -1,0 +1,15 @@
+<!--pages/applying/applying.wxml-->
+<view class='item'>
+  <view class='apply_info'>
+    <view class='apply_text'>
+      <view><text class='apply_id'>\t订单号：\n</text></view>
+      <view><text class='apply_time'>\t时间：\n</text></view>
+      <view><text class='apply_addr'>\t地点：\n</text></view>
+    </view>
+    <view class='act'>
+      <view class='con_v'><button class='connect'>联系对方</button></view>
+      <view class='ref_v'><button class='refuse'>拒绝申请</button></view>
+    </view>
+  </view>
+  <view class='accept_v'><button class='accept'>接受申请</button></view>
+</view>

@@ -1,0 +1,64 @@
+/* pages/applying/applying.wxss */
+.item{
+  height: 300rpx;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: palegreen;
+  padding: 20rpx;
+}
+.apply_info{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 2.5;
+}
+.act{
+  display: flex;
+  flex-direction: row;
+}
+.apply_text{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.connect{
+  display: flex;
+  flex: 50%;
+  text-align: center;
+}
+.connect text{
+  vertical-align:middle;
+  display: table-cell;
+}
+.con_v{
+  display: flex;
+  flex: 1;
+}
+.refuse{
+  display: flex;
+  flex: 50%;
+}
+.ref_v{
+  display: flex;
+  flex: 1;
+}
+.refuse text{
+  vertical-align:middle;
+  display: table-cell;
+}
+.accept{
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  margin: auto;
+  height: 300rpx;
+}
+.accept_v{
+  display: flex;
+  flex: 1;
+}
+.accept text{
+  vertical-align:middle;
+  display: table-cell;
+}

@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/addCgi/addCgi",
+    "pages/find_Student/find_Student",
+    "pages/my/my",
+    "pages/stu_de/stu_de",
+    "pages/te_de/te_de",
+    "pages/applying/applying",
+    "pages/doing/doing"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#00FF99",
+    "navigationBarTitleText": "家教小程序",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#00FF99",
+    "selectedColor": "black",
+    "list": [
+      {
+        "text": "找老师",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "找学生",
+        "pagePath": "pages/find_Student/find_Student"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/my/my"
+      }
+    ]
+  }
+}

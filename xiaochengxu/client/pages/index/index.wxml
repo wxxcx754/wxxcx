@@ -1,0 +1,16 @@
+<view class='search'>
+  <input class='textbox' confirm-type='search' placeholder='搜索' auto-focus='null'></input>
+</view>
+<view class='blank'></view>
+<!-- <scroll-view class='infos' scroll-y="true"> -->
+
+  <view class='tea_info' bindtap='turnto'>
+    <view class='tea_photo'><image class='photo'></image></view>
+    <view class='tea_details'>
+      <text class='name'>姓名：\n</text>
+      <text class='teach'>教学方向：</text>
+     </view>
+  </view>
+  
+  
+<!-- </scroll-view> -->

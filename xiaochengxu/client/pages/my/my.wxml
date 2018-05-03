@@ -1,0 +1,11 @@
+<!--pages/my/my.wxml-->
+<view class='self_info'>
+  <view class='photo'></view>
+  <view class='info'>姓名：</view>
+</view>
+<button class='findstu'>发布招生信息</button>
+<button class='findtea'>发布求学信息</button>
+<button class='appling' bindtap='appling'>申请中的课程</button>
+<button class='crousing' bindtap='doing' >正在进行中的课程</button>
+<button class='crousehis'>课程历史</button>
+<button class='mycom'>我的评价</button>

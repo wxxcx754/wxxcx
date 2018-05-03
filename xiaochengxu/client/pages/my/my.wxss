@@ -1,0 +1,17 @@
+/* pages/my/my.wxss */
+.self_info{
+  width: 750rpx;
+  height: 300rpx;
+  background-color: yellowgreen;
+  padding-top: 10rpx;
+  padding-bottom: 10rpx;
+}
+.photo{
+  width:200rpx;
+  height: 300rpx;
+  background-color: gray;
+  float :left;
+  margin-left: 10rpx;
+  margin-right: 10rpx;
+  margin-bottom: 10rpx;
+}

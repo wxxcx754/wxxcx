@@ -1,0 +1,12 @@
+<!--pages/te_de/te_de.wxml-->
+<view class='main_info'>
+ <view class='photo'></view>
+ <view class='info'>
+   <text class='name'>姓名：\t</text>
+   <text class='sex'>性别：\n</text>
+   <text class='xueli'>学历：\n</text>
+   <text class='teach'>教学方向：</text>
+ </view>
+</view>
+<view class='self_intro'>个人简介：</view>
+<view class='act'><button class='apply'>立刻申请</button><button class='connect'>与TA联系</button></view>

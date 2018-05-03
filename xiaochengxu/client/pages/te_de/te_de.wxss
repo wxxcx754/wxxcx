@@ -1,0 +1,31 @@
+/* pages/te_de/te_de.wxss */
+.main_info{
+ width: 750rpx;
+ height: 350rpx;
+ background-color: gold;
+ padding: 20rpx;
+ padding-top: 40rpx;
+}
+.photo{
+ width: 250rpx;
+ height: 320rpx;
+ background-color: lightpink;
+ float: left;
+ margin-left:0rpx;
+ margin-right: 20rpx;
+}
+.self_intro{
+
+}
+.act{
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  bottom: 0;
+}
+.apply{
+  width: 375rpx;
+}
+.connect{
+  width:375rpx;
+}
